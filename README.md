@@ -33,5 +33,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** curr
 - **Email:** [aditya.d2676@gmail.com](mailto:aditya.d2676@gmail.com)
 
 ---
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
+---
 Let's collaborate and build something amazing together!
