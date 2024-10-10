@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** curr
 ### 🌟 About Me:
 - 🚀 **Currently working on:** A centralized city management platform, a decentralized ledger project, and a smart environmental gas analyzer.
 - 🎓 **Learning:** Advanced algorithms and data structures, Web3, Web development and embedded systems design.
-- ✨ **Fun fact:** I've traveled to nearly 3/4th of India, and there's still so much more to explore!
+- ✨ **Fun fact:** I've traveled to nearly 1/2th of India, and there's still so much more to explore!
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** curr
 ---
 
 ### 🔭 Current Projects:
-- 🌍 **Smart City Management Platform:** Integrating real-time data for urban governance and resource optimization.
+- 🌍 **PetPair:** A C program for managing pet adoption records and user interactions in an animal shelter system..
 - 🌱 **Environmental Gas Monitoring System:** Building a machine that analyzes environmental gases using ESP32 and advanced sensors.
 
 ---
