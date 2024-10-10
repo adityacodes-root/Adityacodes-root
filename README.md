@@ -33,13 +33,13 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** curr
 - **Email:** [aditya.d2676@gmail.com](mailto:aditya.d2676@gmail.com)
 
 ---
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-github-username&theme=dracula)
 
-
-
+Let's collaborate and build something amazing together!
 
 ---
-Let's collaborate and build something amazing together!
+
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Daily Quote" />
+</div>
+
+
