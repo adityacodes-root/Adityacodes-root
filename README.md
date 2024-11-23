@@ -30,8 +30,5 @@ Let's collaborate and build something amazing together!
 
 ---
 
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Daily Quote" />
-</div>
 
 
