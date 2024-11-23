@@ -12,19 +12,11 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** curr
 ---
 
 ### 🛠️ Tech Stack:
-- **Languages:** Python, Java, C, C++, JavaScript, Solidity
+- **Languages:** Python, C, JavaScript
 - **Web Development:** HTML, CSS, React, Node.js, WordPress
-- **Blockchain:** Ethereum, The Graph, IPFS
-- **Embedded Systems:** Arduino, ESP32, MicroPython
+- **Embedded Systems:** Arduino, ESP32
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, VS Code, Linux (Fedora), nvm
-
----
-
-### 🔭 Current Projects:
-- 🌍 **PetPair:** A C program for managing pet adoption records and user interactions in an animal shelter system..
-- 🌱 **Environmental Gas Monitoring System:** Building a machine that analyzes environmental gases using ESP32 and advanced sensors.
-
 ---
 
 ### 📫 How to Reach Me:
