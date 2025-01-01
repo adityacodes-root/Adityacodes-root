@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** curr
 
 ### 🛠️ Tech Stack:
 - **Languages:** Python, C, JavaScript
-- **Web Development:** HTML, CSS, React, Node.js, WordPress
+- **Web Development:** HTML, CSS, React, Express.js, Node.js, WordPress
 - **Embedded Systems:** Arduino, ESP32
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, VS Code, Linux (Fedora), nvm
+- **Tools:** Git,  AWS, VS Code, Linux (Fedora), nvm
 ---
 
 ### 📫 How to Reach Me:
