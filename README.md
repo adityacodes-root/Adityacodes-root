@@ -1,6 +1,6 @@
 ## Hi there, I'm Aditya 👋
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science student** currently pursuing my B.Tech. in Computer Science and Engineering. I love exploring new technologies, building software solutions, and learning continuously to improve my skills.
+Welcome to my GitHub profile! I'm a passionate **Computer Science student** currently pursuing my B.Tech. in Computer Science and Engineering. I am a SWE Intern @ Jio Platforms Limited for summer'25. I love exploring new technologies, building software solutions, and learning continuously to improve my skills.
 
 ---
 
