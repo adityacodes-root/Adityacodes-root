@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** curr
 ---
 
 ### 🌟 About Me:
-- 🚀 **Currently working on:** Building a full-stack project and a personal web portfolio with Threejs.
+- 🚀 **Currently working on:** Building an early stage eye disease diagnosis and healthcare app.
 - 🎓 **Learning:** Cloud Fundamentals and Software Development.
 - ✨ **Fun fact:** I've traveled to nearly 1/2th of India, and there's still so much more to explore!
 
