@@ -1,33 +1,40 @@
-## Hi there, I'm Aditya 👋
+## Hi, I'm Aditya 👋
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science student** currently pursuing my B.Tech. in Computer Science and Engineering. I am a SWE Intern @ Jio Platforms Limited for summer'25. I love exploring new technologies, building software solutions, and learning continuously to improve my skills.
+CS undergrad building real-world software and exploring cloud systems.
+**Ex-SWE Intern @ Jio Platforms (Summer '25)**
 
----
-
-### 🌟 About Me:
-- 🚀 **Currently working on:** Building an early stage eye disease diagnosis and healthcare app.
-- 🎓 **Learning:** Cloud Fundamentals and Software Development.
-- ✨ **Fun fact:** I've traveled to nearly 1/2th of India, and there's still so much more to explore!
+I focus on building products that are practical, scalable, and actually useful.
 
 ---
 
-### 🛠️ Tech Stack:
-- **Languages:** Python, C, JavaScript
-- **Web Development:** HTML, CSS, React, Express.js, Node.js, WordPress
-- **Embedded Systems:** Arduino, ESP32
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git,  AWS, VS Code, Linux (Fedora), nvm
----
+###  What I'm up to
 
-### 📫 How to Reach Me:
-- **LinkedIn:** [Aditya on LinkedIn](https://www.linkedin.com/in/aditya-dubey-438a11301/)
-- **Email:** [aditya.d2676@gmail.com](mailto:aditya.d2676@gmail.com)
+* Working on  **getting better at k8s**
+* Exploring **cloud architecture and system design**
+* Refining my development workflow and system design skills
 
 ---
 
-Let's collaborate and build something amazing together!
+### Tech I use
+
+* **Languages:** Python, JavaScript
+* **Web:** React, Node.js, Express, HTML, CSS
+* **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Azure DevOps), Linux (Fedora)
+* **Databases:** MongoDB, MySQL, PostgreSQL
+* **Hardware:** Arduino, ESP32
+---
+
+###  A bit about me
+
+* Traveled across ~half of India - still exploring
+* I care about both **functionality and good UI/UX**
 
 ---
 
+### 📫 Reach me
 
+* LinkedIn: https://www.linkedin.com/in/ad1tya-dubey
+* Email: [aditya.d2676@gmail.com](mailto:aditya.d2676@gmail.com)
 
+---
+If you have any interesting ideas you wanna work together on, or just want to talk tech, hit me up! :)
